@@ -3,8 +3,15 @@
  *  Copyright 2021 Marcelino Pozo-Joseph
  */
 /*
-    PSEUDOCODE GOES HERE
-    Basically write out step by step what ur codes doing.
+    PSEUDOCODE
+
+    -Create a scanner and multiple strings to hold the word types
+    -Prompt for and then grab user input
+        -Ask for a noun, verb, adjective and adverb and store them
+        all in seperate variables
+    -Finally print out the output and include all of the words that
+    were prompted for using the + operator
+    -Make sure this is done in one .println()!
  */
 
 package example04;
